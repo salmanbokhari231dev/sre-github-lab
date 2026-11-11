@@ -32,4 +32,4 @@ Author
 [Salman Bukhari, Mam Mudassira]
 
 Contributing
-Create a documentation branch, edit and review README.md, commit and push the change, then open a pull request for review.
+Create a documentation branch, edit and review README.md, commit and push the change, then open a pull request for review..
